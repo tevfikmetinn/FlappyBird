@@ -6,6 +6,25 @@ Bu proje, Nesne Tabanlı Programlama dersi kapsamında C# ASP.NET Core ve JS tek
 
 **[Oyunun Canlı Demosuna Buradan Ulaşabilirsiniz!](YAKINDA-EKLENECEK)**
 
+https://github.com/user-attachments/assets/5a550de1-d765-4f3e-8f7f-f092656c4cd2
+
+## Bu Projede Neler Öğrendim?
+
+Bu proje boyunca hem backend hem de frontend alanında birçok önemli konsepti pratiğe dökme fırsatı buldum:
+
+#### Backend (C# & ASP.NET Core)
+* **Statik Dosya Sunumu:** `Program.cs` içinde `app.UseStaticFiles()` kullanarak bir ASP.NET Core sunucusunun `wwwroot` klasöründeki HTML, CSS, JS gibi dosyaları nasıl sunacağını öğrendim.
+* **Varsayılan Rota:** `app.UseDefaultFiles()` ara yazılımının, kök dizine gelen istekleri otomatik olarak `index.html` gibi varsayılan bir dosyaya nasıl yönlendirdiğini anladım.
+* **API Denetleyicisi (Controller):** Basit bir `[ApiController]` oluşturarak C# ile HTTP GET isteklerine nasıl yanıt verileceğini ve JSON verisi döndürüleceğini öğrendim.
+* **Proje Organizasyonu:** `.gitignore` dosyasının önemini ve gereksiz dosyaları versiyon kontrolü dışında nasıl tutacağımı öğrendim.
+
+#### Frontend (JavaScript & Canvas)
+* **Oyun Döngüsü (Game Loop):** `requestAnimationFrame` kullanarak akıcı ve verimli bir oyun döngüsünü nasıl oluşturacağımı öğrendim.
+* **Canvas API ile Çizim:** `getContext('2d')` ile çizim bağlamını almayı ve `drawImage`, `fillRect`, `fillText` gibi komutlarla ekrana dinamik olarak görseller ve metinler çizmeyi öğrendim.
+* **Oyun Durum Yönetimi (State Management):** Oyunun 'start', 'playing', 'gameOver' gibi farklı durumlarını bir değişkenle yöneterek oyun akışını nasıl kontrol edeceğimi öğrendim.
+* **Kullanıcı Etkileşimi:** `addEventListener` kullanarak klavye (`keydown`) ve fare (`click`) olaylarını dinleyip oyun içi aksiyonları (zıplama, yeniden başlatma) nasıl tetikleyeceğimi öğrendim.
+* **Temel Fizik ve Çarpışma:** Nesnelere yerçekimi ve hız gibi basit fizik kurallarını uygulamayı ve nesnelerin sınılarını (bounding box) karşılaştırarak çarpışma tespitini nasıl yapacağımı öğrendim.
+
 ---
 
 ## Proje Hakkında
