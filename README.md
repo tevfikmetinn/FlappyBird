@@ -4,7 +4,7 @@ Bu proje, Nesne Tabanlı Programlama dersi kapsamında C# ASP.NET Core ve JS tek
 
 ##  Canlı Demo
 
-**[Oyunun Canlı Demosuna Buradan Ulaşabilirsiniz!](YAKINDA-EKLENECEK)**
+**[Oyunun Canlı Demosuna Buradan Ulaşabilirsiniz!](https://tevfikmetinn.github.io/FlappyBird/)**
 
 ## Oyundan Görüntü
 https://github.com/user-attachments/assets/18363f2d-225d-4486-a0b3-c3412c8163a4
