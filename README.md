@@ -2,11 +2,12 @@
 
 Bu proje, Nesne Tabanlı Programlama dersi kapsamında C# ASP.NET Core ve JS teknolojileri kullanılarak geliştirilmiş bir Flappy Bird oyunudur.
 
-##  canlı Demo
+##  Canlı Demo
 
 **[Oyunun Canlı Demosuna Buradan Ulaşabilirsiniz!](YAKINDA-EKLENECEK)**
 
-https://github.com/user-attachments/assets/5a550de1-d765-4f3e-8f7f-f092656c4cd2
+## Oyundan Görüntü
+https://github.com/user-attachments/assets/18363f2d-225d-4486-a0b3-c3412c8163a4
 
 ## Bu Projede Neler Öğrendim?
 
