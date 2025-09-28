@@ -55,4 +55,4 @@ Projenin arka planı (backend), **C#** dili ve **ASP.NET Core** çatısı ile ol
 
 Projeyi kendi bilgisayarınızda çalıştırmak için:
 1.  Bu depoyu klonlayın: `git clone https://github.com/tevfikmetinn/FlappyBird.git`
-2.  Projeyi Visual Studio 2022 ile açın.
+2.  Projeyi çalıştırın.
