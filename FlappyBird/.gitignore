@@ -1,0 +1,54 @@
+﻿# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+[Dd]ependencies/
+[Pp]ackages/
+*.nupkg
+*.nuget.nupkg
+*.nuget.props
+*.nuget.targets
+
+# Tizen Dependencies
+Tizen.Manifest.xml
+tizen-manifest.xml
+
+# Cake build tool
+tools/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Aa]rtifacts/
+[Bb]in/
+[Bb]uild/
+[Bb]uildLog.*
+[Dd]ebug/
+[Dd]ebugPublic/
+[Ll]ogs/
+[Rr]elease/
+[Rr]eleases/
+[Xx]64/
+[Xx]86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Tt]est[Rr]esult*/
+[Bb]uild[Aa]rtifacts/
+*.Appx/
+*.AppxBundle/
+*.msix/
+*.msixbundle/
+
+# Visual Studio 2019 cache/options directory
+.vs/
+
+# Visual Studio 2022 cache
+.vsconfig
+
+# Rider
+.idea/
+*.sln.iml
